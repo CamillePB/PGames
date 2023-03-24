@@ -1,0 +1,3 @@
+figura.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/pikachu.jpg")));
+
+para mudar a imagem igual no marciano
